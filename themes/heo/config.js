@@ -25,9 +25,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '新手项目', url: '/category/新手项目' },
-  HEO_HERO_CATEGORY_2: { title: '热门项目', url: '/category/热门项目' },
-  HEO_HERO_CATEGORY_3: { title: '免费领卡', url: '/category/免费领卡' },
+  HEO_HERO_CATEGORY_1: { title: '萌新必看', url: '/category/萌新必看' },
+  HEO_HERO_CATEGORY_2: { title: '喂养指南', url: '/category/喂养指南' },
+  HEO_HERO_CATEGORY_3: { title: '硬核科普', url: '/category/硬核科普' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -85,7 +85,7 @@ const CONFIG = {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
-      title_2: 'CSS3',
+      title_2: 'CSS3'，
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
       color_2: '#2c51db'
     },
@@ -110,8 +110,8 @@ const CONFIG = {
   HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群'，
+  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question'，
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
