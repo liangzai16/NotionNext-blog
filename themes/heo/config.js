@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2025-10-31', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2026-03-28', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [],
@@ -16,7 +16,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '宠物热点资讯',
-  HEO_HERO_TITLE_2: '专注猫狗日常喂养，科普避雷不踩坑！💊这里有你想知道的养宠干货，让爱更有温度。✨ 一起科学养宠不迷路！'，
+  HEO_HERO_TITLE_2: '专注猫狗日常喂养，科普避雷不踩坑！',
   HEO_HERO_TITLE_3: 'llz.qzz.io',
   HEO_HERO_TITLE_4: '最新上线',
   HEO_HERO_TITLE_5: '官方正规大流量不限速流量卡 【包邮领取】',
@@ -25,8 +25,8 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '宠物科普', url: '/category/宠物科普' },
-  HEO_HERO_CATEGORY_2: { title: '特点资讯', url: '/category/热点资讯' },
+  HEO_HERO_CATEGORY_1: { title: '新手项目', url: '/category/新手项目' },
+  HEO_HERO_CATEGORY_2: { title: '热门项目', url: '/category/热门项目' },
   HEO_HERO_CATEGORY_3: { title: '免费领卡', url: '/category/免费领卡' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -37,7 +37,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '欢迎来到',
-  ],
+   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
@@ -86,11 +86,11 @@ const CONFIG = {
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp'，
+      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
       color_2: '#2c51db'
     },
     {
-      title_1: 'JS'，
+      title_1: 'JS',
       img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
       color_1: '#f7cb4f',
       title_2: 'HTML',
@@ -111,7 +111,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question'，
+  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
